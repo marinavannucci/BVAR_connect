@@ -26,6 +26,10 @@ Methodology and detailed implementation of the variational method are described 
 
 The repository contains a BVAR_connect.mlappinstall file which can be installed on both Windows and OS machine. For proper installation, you will need to have MATLAB R2012b or a higher version. In the example data folder, one can find Matlab codes to reproduce the simulations performed in the second manuscript, along with a .mat file containing the real fMRI data used for the real data application.
 
+## Video
+
+Please see the video for a brief walk through the main software features.
+
 
 ## Example
 
